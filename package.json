@@ -1,0 +1,16 @@
+{
+  "name": "tweetpie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "custom-env": "^1.0.0",
+    "heroku": "^7.22.5",
+    "twit": "^2.2.11"
+  }
+}
