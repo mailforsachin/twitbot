@@ -6,8 +6,8 @@ var T = new Twit(require('./config.js'));
 
 // This is the URL of a search for the latest tweets on the '#mediaarts' hashtag.
 
-var arraylist=['#MyVoteForIndia','#ThoughtForTheDay', '#PeaceDay', '#WinterIsComing', '#AvengersEndGame', '#NamoAgain2019','#FirEkBaarModiSarkaar']
-var arraylist1=['#ClimateStrike','#JuvenileJustice','#YouthJustice','#UCLDraw','#TeriMitti']
+var arraylist=['#MyVoteForIndia','#FirEkBaarModiSarkaar', '#Amethi', '#SmritiIrani', '#ModiForPM', '#NamoAgain2019','#BaarBaarModiSarkaar']
+var arraylist1=['#VoteForBJP','#BJP','#Hinduism','#Hindus','#SanatanDharma']
 
 var randomv=Math.floor(Math.random()*7);
 var randomx=Math.floor(Math.random()*3);
